@@ -6,7 +6,7 @@
   "scripts": {
     "test": "mocha index.test.js"
   },
-  "author": "",
+  "author": "cindy.huang",
   "license": "ISC",
   "devDependencies": {
     "chai": "^4.3.6",
