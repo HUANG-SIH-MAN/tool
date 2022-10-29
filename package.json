@@ -1,0 +1,16 @@
+{
+  "name": "@cindy.huang/tool",
+  "version": "1.0.0",
+  "description": "small tool to sort out data",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha index.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "eslint": "^8.26.0",
+    "mocha": "^10.1.0"
+  }
+}
